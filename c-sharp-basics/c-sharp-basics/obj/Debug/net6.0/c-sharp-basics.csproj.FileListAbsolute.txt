@@ -1,0 +1,15 @@
+D:\Projects\c-sharp-basics\c-sharp-basics\c-sharp-basics\bin\Debug\net6.0\c-sharp-basics.exe
+D:\Projects\c-sharp-basics\c-sharp-basics\c-sharp-basics\bin\Debug\net6.0\c-sharp-basics.deps.json
+D:\Projects\c-sharp-basics\c-sharp-basics\c-sharp-basics\bin\Debug\net6.0\c-sharp-basics.runtimeconfig.json
+D:\Projects\c-sharp-basics\c-sharp-basics\c-sharp-basics\bin\Debug\net6.0\c-sharp-basics.dll
+D:\Projects\c-sharp-basics\c-sharp-basics\c-sharp-basics\bin\Debug\net6.0\c-sharp-basics.pdb
+D:\Projects\c-sharp-basics\c-sharp-basics\c-sharp-basics\obj\Debug\net6.0\c-sharp-basics.csproj.AssemblyReference.cache
+D:\Projects\c-sharp-basics\c-sharp-basics\c-sharp-basics\obj\Debug\net6.0\c-sharp-basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c-sharp-basics\c-sharp-basics\c-sharp-basics\obj\Debug\net6.0\c-sharp-basics.AssemblyInfoInputs.cache
+D:\Projects\c-sharp-basics\c-sharp-basics\c-sharp-basics\obj\Debug\net6.0\c-sharp-basics.AssemblyInfo.cs
+D:\Projects\c-sharp-basics\c-sharp-basics\c-sharp-basics\obj\Debug\net6.0\c-sharp-basics.csproj.CoreCompileInputs.cache
+D:\Projects\c-sharp-basics\c-sharp-basics\c-sharp-basics\obj\Debug\net6.0\c-sharp-basics.dll
+D:\Projects\c-sharp-basics\c-sharp-basics\c-sharp-basics\obj\Debug\net6.0\refint\c-sharp-basics.dll
+D:\Projects\c-sharp-basics\c-sharp-basics\c-sharp-basics\obj\Debug\net6.0\c-sharp-basics.pdb
+D:\Projects\c-sharp-basics\c-sharp-basics\c-sharp-basics\obj\Debug\net6.0\c-sharp-basics.genruntimeconfig.cache
+D:\Projects\c-sharp-basics\c-sharp-basics\c-sharp-basics\obj\Debug\net6.0\ref\c-sharp-basics.dll
